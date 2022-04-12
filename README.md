@@ -1,6 +1,6 @@
 ### Result
 
-!(Result)[result.jpg]
+![Result](result.jpg)
 
 ### Assignment
 
