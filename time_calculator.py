@@ -1,4 +1,4 @@
-def add_hrs(start, add, meridiem, debug=False):
+def magic_calc(start, add, meridiem, debug=False):
     frmt = 12
 
     # new hours according to 12 hrs format
@@ -56,7 +56,7 @@ def add_time(start, duration, day=""):
         mins = newMins
 
         # magic calculation
-        addHours = add_hrs(hrs, hrsToAdd, mrdm)
+        addHours = magic_calc(hrs, hrsToAdd, mrdm)
 
         mrdm = addHours["meridiem"]
         hrs = addHours["hours"]
