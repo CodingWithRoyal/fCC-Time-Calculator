@@ -1,3 +1,7 @@
+### Result
+
+!(Result)[result.jpg]
+
 ### Assignment
 
 Write a function named `add_time` that takes in two required parameters and one optional parameter:
