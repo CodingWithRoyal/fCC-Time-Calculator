@@ -1,4 +1,4 @@
-### Result
+### Result::
 
 ![Result](result.jpg)
 
